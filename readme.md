@@ -16,7 +16,7 @@ This scrapy scraper extract basic product details from the Siegenia online shop,
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/stoeppke/siegenia-onlineshop-crawler.git
     cd siegenia
     ```
 
