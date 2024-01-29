@@ -22,7 +22,7 @@ This scrapy scraper extract basic product details from the Siegenia online shop,
 
 2. Install the required dependencies:
     ```bash
-    pip install scrapy beautifulsoup4
+    pip install -r requirements.txt
     ```
 
 3. Run the spider:
